@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50605d3c5e9054e9cb974abdd62e3e5e, type: 3}
+  m_Name: StartingState
+  m_EditorClassIdentifier: 
+  storyText: This is the sort text in here dsvdsvdsvsdvds
+  nextStates:
+  - {fileID: 11400000, guid: b6d84bf16b427407fa5eb92f00889c73, type: 2}
+  - {fileID: 11400000, guid: d1094b10143004ca3ad5054e10381a60, type: 2}
